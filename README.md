@@ -1,0 +1,1 @@
+# star_pattern_in_c
